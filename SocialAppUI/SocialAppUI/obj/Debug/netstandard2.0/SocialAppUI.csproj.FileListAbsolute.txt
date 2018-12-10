@@ -1,0 +1,12 @@
+C:\Users\tamis\source\repos\SocialApp\SocialAppUI\SocialAppUI\bin\Debug\netstandard2.0\SocialAppUI.deps.json
+C:\Users\tamis\source\repos\SocialApp\SocialAppUI\SocialAppUI\bin\Debug\netstandard2.0\SocialAppUI.dll
+C:\Users\tamis\source\repos\SocialApp\SocialAppUI\SocialAppUI\bin\Debug\netstandard2.0\SocialAppUI.pdb
+C:\Users\tamis\source\repos\SocialApp\SocialAppUI\SocialAppUI\obj\Debug\netstandard2.0\SocialAppUI.csprojAssemblyReference.cache
+C:\Users\tamis\source\repos\SocialApp\SocialAppUI\SocialAppUI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tamis\source\repos\SocialApp\SocialAppUI\SocialAppUI\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\tamis\source\repos\SocialApp\SocialAppUI\SocialAppUI\obj\Debug\netstandard2.0\SocialAppUI.csproj.CoreCompileInputs.cache
+C:\Users\tamis\source\repos\SocialApp\SocialAppUI\SocialAppUI\obj\Debug\netstandard2.0\SocialAppUI.AssemblyInfoInputs.cache
+C:\Users\tamis\source\repos\SocialApp\SocialAppUI\SocialAppUI\obj\Debug\netstandard2.0\SocialAppUI.AssemblyInfo.cs
+C:\Users\tamis\source\repos\SocialApp\SocialAppUI\SocialAppUI\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\tamis\source\repos\SocialApp\SocialAppUI\SocialAppUI\obj\Debug\netstandard2.0\SocialAppUI.dll
+C:\Users\tamis\source\repos\SocialApp\SocialAppUI\SocialAppUI\obj\Debug\netstandard2.0\SocialAppUI.pdb

@@ -1,0 +1,1 @@
+C:\Users\tamis\source\repos\SocialApp\SocialAppUI\SocialAppUI.UWP\SocialAppUI.UWP.csproj;x86
